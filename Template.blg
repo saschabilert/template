@@ -2,45 +2,45 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Template.aux
 The style file: ieeetr.bst
-Database file #1: smith1991bark.bib
-You've used 1 entry,
+Database file #1: Template.bib
+You've used 4 entries,
             1876 wiz_defined-function locations,
-            484 strings with 3607 characters,
-and the built_in function-call counts, 344 in all, are:
-= -- 35
-> -- 8
+            505 strings with 4166 characters,
+and the built_in function-call counts, 1230 in all, are:
+= -- 128
+> -- 37
 < -- 0
-+ -- 3
-- -- 2
-* -- 24
-:= -- 53
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 1
++ -- 14
+- -- 10
+* -- 85
+:= -- 171
+add.period$ -- 5
+call.type$ -- 4
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 17
-empty$ -- 31
-format.name$ -- 2
-if$ -- 84
+cite$ -- 4
+duplicate$ -- 62
+empty$ -- 120
+format.name$ -- 10
+if$ -- 303
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 6
-num.names$ -- 1
-pop$ -- 1
+int.to.str$ -- 4
+missing$ -- 5
+newline$ -- 16
+num.names$ -- 4
+pop$ -- 12
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 15
+skip$ -- 46
 stack$ -- 0
-substring$ -- 28
-swap$ -- 9
+substring$ -- 96
+swap$ -- 28
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 3
-width$ -- 2
-write$ -- 13
+while$ -- 13
+width$ -- 5
+write$ -- 44

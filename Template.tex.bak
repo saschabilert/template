@@ -79,11 +79,11 @@ I many cases you need to add different \textbackslash usepackages to format your
 
 \section{The Bibliography}
 
-This is how you do citation in LateX using different styles \cite{smith1991bark}
+This is how you do citation in LateX using different styles \cite{houl}
 
 \bibliographystyle{ieeetr}
 
-\bibliography{smith1991bark}
+\bibliography{Template}
 
 \end{document}
 
