@@ -1,0 +1,89 @@
+% define documentclass i.e. article, book, scrartcl
+\documentclass[11pt, a4paper]{article}
+\usepackage[ngerman, english]{babel}
+
+% figure usepackages
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% encoding UTF-8
+\usepackage[utf8]{inputenc}
+
+% math usepackages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{eurosym}
+
+% hyperlinks
+\usepackage{hyperref}
+
+% to-do-notes (\todo{Do this do that}) - \listoftodos
+\usepackage{todonotes}
+
+% page margins and spacing
+\usepackage[margin=2cm, nohead]{geometry}
+\usepackage[onehalfspacing]{setspace}
+
+% table usepackages
+\usepackage{array}
+
+% list usepackages
+\usepackage{lmodern}
+
+% code usepackages
+\usepackage{listings}
+\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}
+
+% font usepackages
+\usepackage{ae, aecompl}
+\usepackage[T1]{fontenc}
+\usepackage{color}
+
+% macro usepackage
+\usepackage{xparse}
+\DeclareDocumentCommand{\pder}{ O{} O{} m }{\frac{\partial^{#2}#1}{\partial#3^{#2}}}
+
+\begin{document}
+
+\title{LateX Template for Beginner}
+\author{Sascha Bilert}
+\date{\today}
+\maketitle
+\thispagestyle{empty}
+\tableofcontents
+
+\pagebreak
+
+\pagenumbering{arabic}
+
+\section{Introduction}
+
+The following document is a Template made for LateX by Sascha Bilert. I tried to implement the most frequently used latex packages. If you have any comments please contact my under:
+
+\url{sascha.bilert@student.jade-hs.de}\\
+I many cases you need to add different \textbackslash usepackages to format your Latex document for your own purpose.
+
+
+\section{Using Macros}
+
+\section{Listings}
+
+\section{Mathematics}
+
+\section{Figures}
+
+\section{Code-lines}
+
+\section{The Bibliography}
+
+This is how you do citation in LateX using different styles \cite{smith1991bark}
+
+\bibliographystyle{ieeetr}
+
+\bibliography{smith1991bark}
+
+\end{document}
+
