@@ -63,12 +63,12 @@
 
 The following document is a Template made for LateX by Sascha Bilert. I tried to implement my most frequently used latex packages. If you have any comments please contact my under:
 
-\url{sascha.bilert@student.jade-hs.de}\\
+\href{mailto:sascha.bilert@student.jade-hs.de}{sascha.bilert@student.jade-hs.de}\\
 I many cases you need to add different \textbackslash use-packages to format your Latex document for your own purpose. My goal was to build a bridge between the packages and the usage for my colleges. Also i wanted to work with a git repository as a version control system for my Latex document.
 
 So on one hand its a training for my Latex skills and on the other hand every can have a lot and maybe find some interesting aspects. I also like to mention, that i hate those {\color{blue}blue} and {\color{red}red} messages in the LOG FILE!
 
-I work with \textbf{texmaker} but as you know, there a many different typesetting programmes for Latex. The latest i tried to work with is the vim editor with a Latex compiler.
+I usually work with \textbf{texmaker} but as you know, there a many different typesetting programmes for Latex. The latest i tried to work with is the vim editor with a Latex compiler.
 
 \section{Using Macros}
 
@@ -89,10 +89,10 @@ In the following section i what to say something about bullet-lists and enumerat
 
 \section{Figures}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.2cm]{plot_Template.pdf}
-	\caption{Image1}
+	\includegraphics[scale=0.6]{plot_Template.pdf}
+	\caption{Gaussian noise with $fs = 48$ kHz}
 	\label{fig:image1}
 \end{figure}
 
