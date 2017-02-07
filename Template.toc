@@ -1,9 +1,9 @@
 \select@language {english}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Using Macros}{1}{section.2}
-\contentsline {section}{\numberline {3}Listings}{1}{section.3}
-\contentsline {section}{\numberline {4}Mathematics}{1}{section.4}
-\contentsline {section}{\numberline {5}Figures}{1}{section.5}
-\contentsline {section}{\numberline {6}Code-lines}{1}{section.6}
-\contentsline {section}{\numberline {7}Notes}{1}{section.7}
-\contentsline {section}{\numberline {8}The Bibliography}{1}{section.8}
+\contentsline {section}{\numberline {3}Bullets and enumerations}{1}{section.3}
+\contentsline {section}{\numberline {4}Mathematics}{2}{section.4}
+\contentsline {section}{\numberline {5}Figures}{2}{section.5}
+\contentsline {section}{\numberline {6}Code-lines}{2}{section.6}
+\contentsline {section}{\numberline {7}Notes}{2}{section.7}
+\contentsline {section}{\numberline {8}The Bibliography}{2}{section.8}
