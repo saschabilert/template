@@ -1,22 +1,26 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{HFVK10}
 
-\bibitem{holube2010development}
-I.~Holube, S.~Fredelake, M.~Vlaming, and B.~Kollmeier, ``Development and
-  analysis of an international speech test signal (ists),'' {\em International
-  Journal of Audiology}, vol.~49, no.~12, pp.~891--903, 2010.
+\bibitem[BS01]{bitzer2001superdirective}
+Joerg Bitzer and K~Uwe Simmer.
+\newblock Superdirective microphone arrays.
+\newblock In {\em Microphone arrays}, pages 19--38. Springer, 2001.
 
-\bibitem{yost2013hearing}
-W.~A. Yost, {\em Fundamentals of Hearing: An Introduction}, vol.~5.
+\bibitem[HFVK10]{holube2010development}
+Inga Holube, Stefan Fredelake, Marcel Vlaming, and Birger Kollmeier.
+\newblock Development and analysis of an international speech test signal
+  (ists).
+\newblock {\em International Journal of Audiology}, 49(12):891--903, 2010.
+
+\bibitem[VDK91]{verhey1999within}
+Jesko~L Verhey, Torsten Dau, and Birger Kollmeier.
+\newblock Within-channel cues in comodulation masking release (cmr):
+  Experiments and model predictions using a modulation-filterbank model.
+\newblock {\em The Journal of the Acoustical Society of America},
+  106(5):2733--2745, 1991.
+
+\bibitem[Yos13]{yost2013hearing}
+Wiliam~A. Yost.
+\newblock {\em Fundamentals of Hearing: An Introduction}, volume~5.
 \newblock BRIL, 2013.
-
-\bibitem{verhey1999within}
-J.~L. Verhey, T.~Dau, and B.~Kollmeier, ``Within-channel cues in comodulation
-  masking release (cmr): Experiments and model predictions using a
-  modulation-filterbank model,'' {\em The Journal of the Acoustical Society of
-  America}, vol.~106, no.~5, pp.~2733--2745, 1991.
-
-\bibitem{bitzer2001superdirective}
-J.~Bitzer and K.~U. Simmer, ``Superdirective microphone arrays,'' in {\em
-  Microphone arrays}, pp.~19--38, Springer, 2001.
 
 \end{thebibliography}
